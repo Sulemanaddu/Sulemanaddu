@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Sulemanaddu
-- 👀 I’m interested in Software development and technology during my academic journey and through various project. I have gained substantial experience in HTML, CSS, C programming, C++ and java.
-- 🌱 I’m currently learning master in computer applications(MCA) from AnantRao Pawar College Of Engineering and Research Pune. 
-- 📫  instagram id :- @sulemanaddu
-<!---
-Sulemanaddu/Sulemanaddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Suleman Anwar Siddiqui  
+
+- 💻 Passionate Software Developer with a strong foundation in **HTML, CSS, Java, C, C++**, and hands-on experience in building real-world projects.  
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at *AnantRao Pawar College of Engineering and Research, Pune*.  
+- 🚀 Exploring advanced topics in **Flutter, React, AI/ML, and full-stack development** to build scalable and user-friendly applications.  
+- 🔍 Interests: **Software Engineering | Web & Mobile Development | AI Integration | Open-Source Contribution**.  
+- 📫 Connect with me: [Instagram](https://instagram.com/sulemanaddu) | [LinkedIn](www.linkedin.com/in/suleman-siddiqui-828975257) | [Portfolio](https://suleman.live/) 
+
+---
+⭐️ *“Code is not just about solving problems, it’s about creating impact.”*
