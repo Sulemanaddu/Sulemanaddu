@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -12,22 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # must be false to use token
+          persist-credentials: false
 
-      - name: Generate Snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: 'Sulemanaddu'        # your GitHub username
+          github_user_name: 'Sulemanaddu'
           outputs: dist/github-snake.svg dist/github-snake-dark.svg
 
-      - name: Commit & push SVGs to output branch
+      - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: 'github-actions[bot]'
           author_email: '41898282+github-actions[bot]@users.noreply.github.com'
           message: 'chore(snake): update generated snake svgs'
           add: 'dist/**'
-          new_branch: 'output'           # 👈 this is the_
+          new_branch: 'output'
+          push: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
