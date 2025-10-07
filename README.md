@@ -35,7 +35,7 @@
 
 <h2>⚡️ Where to Find Me</h2>
 <p>
-<a href="https://www.linkedin.com/in/sulemanaddu/" target="_blank">
+<a href="https://www.linkedin.com/in/suleman-siddiqui-828975257/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:sulemanaddu07@gmail.com" target="_blank">
@@ -43,8 +43,3 @@
 </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulemanaddu/sulemanaddu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulemanaddu/sulemanaddu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sulemanaddu/sulemanaddu/output/github-snake.svg" />
-</picture>
