@@ -43,10 +43,3 @@
 </a>
 </p>
 
-![snake gif](https://github.com/Sulemanaddu/Sulemanaddu/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
-
-
